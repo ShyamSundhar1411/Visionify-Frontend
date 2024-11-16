@@ -1,7 +1,7 @@
 import React from "react";
 import HeroComponent  from "../components/HeroComponent";
 import CapabilitiesComponent from "../components/CapabalitiesComponent";
-import DemoComponent from "../components/DemoComponent";
+import ImageUploadComponent from "../components/ImageUploadComponent";
 
 
 const LandingPage = () => {
@@ -9,7 +9,7 @@ const LandingPage = () => {
     <>
       <HeroComponent />
       <CapabilitiesComponent />
-      <DemoComponent />
+      <ImageUploadComponent />
     </>
     
   );

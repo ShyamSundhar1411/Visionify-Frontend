@@ -8,12 +8,9 @@ const HeroComponent = () => {
           <div className="content">
             <GradientText variant="h1">Visionify</GradientText>
             <Typography variant="body1">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-              vestibulum mi sit amet tellus maximus ultrices. Nulla facilisi.
-              Maecenas eget efficitur lacus, eget pretium nunc. Vivamus a eros
-              vel augue ultricies fringilla. Duis nec efficitur lacus, vel
-              dignissim velit. Curabitur auctor libero sed augue consequat
-              aliquet.
+              Unlock the power of AI with Visionify — your intelligent image classification platform. 
+              Choose from a variety of models to analyze and interpret images, from disease detection to object recognition. 
+              Seamlessly upload your images, and let Visionify provide insightful predictions with cutting-edge machine learning.
             </Typography>
             <div className="field">
               <div className="mouse"></div>
